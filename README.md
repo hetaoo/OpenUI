@@ -4,4 +4,4 @@
 当前版本：v4.1.0
 
 * [带文档说明版](https://github.com/hetaoo/OpenUI/raw/master/Hplus-v.4.1.0.zip)
-* [不带文档说明版](https://github.com/hetaoo/OpenUI/raw/master/hplus-v.4.1.0.zip)
+* [不带文档说明版](https://github.com/hetaoo/OpenUI/raw/master/hplus%20V4.1.0.zip)
